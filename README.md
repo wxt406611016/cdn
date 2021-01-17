@@ -1,1 +1,1 @@
-# PicGoCDN
+# cdn for github!
