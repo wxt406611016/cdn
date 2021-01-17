@@ -1,1 +1,1 @@
-# cdn for github!
+# CDN for static resource on github
